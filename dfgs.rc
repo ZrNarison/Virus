@@ -1,0 +1,30 @@
+VLC_ICON ICON "Icon_1.ico"
+
+
+1 VERSIONINFO
+FILEVERSION 1,2,0,99
+PRODUCTVERSION 1,2,0,99
+FILEOS 0x4
+FILETYPE 0x1
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "040904E4"
+	{
+		VALUE "CompanyName", "the VideoLAN Team"
+		VALUE "ProductName", "VLC media player"
+		VALUE "ProductVersion", "1,2,0,99"
+		VALUE "InternalName", ""
+		VALUE "OriginalFilename", "vlc.exe"
+		VALUE "FileVersion", "1.2.0-git"
+		VALUE "FileDescription", "VLC media player"
+		VALUE "LegalCopyright", "(c) 1996-2010 the VideoLAN Team"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0409 0x04B0
+}
+}
+
